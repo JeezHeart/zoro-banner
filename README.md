@@ -4,6 +4,6 @@
 
 Banner for GitHub profile. Raw URL for profile README:
 
-``markdown
+```markdown
 ![Zoro Banner](https://github.com/JeezHeart/zoro-banner/blob/main/zoro-banner.gif?raw=true)
-``n
+```
